@@ -1,3 +1,5 @@
+[![MasterHead](https://www.kesiapankerja.com/wp-content/uploads/2020/09/hello-world.jpg
+)]
 <h1 align="center">Hi 👋, I'm Ishita Pathak</h1>
 <h3 align="center">A Sophomore who loves exploring new fields.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">

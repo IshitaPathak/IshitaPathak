@@ -1,3 +1,5 @@
+<img align="centre" src="https://github.com/IshitaPathak/IshitaPathak/blob/main/github%20banner.png">
+
 <h1 align="center">Hi 👋, I'm Ishita Pathak</h1>
 <h3 align="center">A passionate tech enthusiast and graphic designer from India</h3>
 

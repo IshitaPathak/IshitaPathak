@@ -5,7 +5,7 @@
 
 - 💻 My website [https://ishita-pathak.my.canva.site/](https://ishita-pathak.my.canva.site/)
 
-- 📫 How to reach me **bhuishita@gmail.com**
+- 📫 Reach out to me at **bhuishita@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

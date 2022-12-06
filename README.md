@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ishita</h1>
-<h3 align="center">A passionate fA passionate tech enthusiast and graphic designer from India.rontend developer from India</h3>
+<h3 align="center">A passionate tech enthusiast and graphic designer from India.</h3>
 
 - 👨‍💻 My Portfolio [https://ishita-pathak.my.canva.site/](https://ishita-pathak.my.canva.site/)
 

@@ -2,11 +2,13 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ishita</h1>
-<h3 align="center">A passionate tech enthusiast learning Full Stack Development and graphic designer from India.</h3>
+<h1 align="center">Hi 👋, I'm Ishita. 
+            <pre> Glad to see you here!</pre> </h1>
+<h3 align="center">A tech enthusiast currently learning Full Stack Development and a passionate graphic designer from India.</h3>
 
+- 
+- 🧾 Pursuing Bachelor's in Computer Science from Banaras Hindu University
 - 👨‍💻 My Portfolio [https://ishita-pathak.my.canva.site/](https://ishita-pathak.my.canva.site/)
-
 - 📫 How to reach me **bhuishita@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

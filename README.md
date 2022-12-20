@@ -23,7 +23,7 @@
 
 
 
-<br>
+
 <h3 align="left">Profile Visits</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitapathak&label=Profile%20views&color=0e75b6&style=flat" alt="ishitapathak" /> </p>
 

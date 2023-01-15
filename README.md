@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ishita-pathak-119437201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishita-pathak-119437201/" height="50" width="60" /></a>
 <a href="https://www.instagram.com/pathak__ishita/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pathak__ishita/" height="50" width="60" /></a>
-<a href="https://www.youtube.com/channel/UCZorT3d6-JOud908l79T7JQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczort3d6-joud908l79t7jq" height="50" width="60" /></a>
+// <a href="https://www.youtube.com/channel/UCZorT3d6-JOud908l79T7JQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- //profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczort3d6-joud908l79t7jq" height="50" width="60" /></a>
 </p>
 
 

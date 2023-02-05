@@ -1,4 +1,4 @@
-<img align="centre" src="https://github.com/IshitaPathak/IshitaPathak/blob/main/github%20banner.png">
+
 
 
 

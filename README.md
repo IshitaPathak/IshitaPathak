@@ -7,7 +7,7 @@
 <h3 align="center">A tech enthusiast currently learning Full Stack Development and a passionate graphic designer.</h3>
 
 - 🧾 Pursuing Bachelor's in Computer Science from Banaras Hindu University
-- 👨‍💻 My Portfolio [https://ishita-pathak.my.canva.site/](https://ishita-pathak.my.canva.site/)
+- 👨‍💻 My Design Portfolio [https://ishita-pathak.my.canva.site/](https://ishita-pathak.my.canva.site/)
 - 📫 How to reach me **bhuishita@gmail.com**
 - 🤝 Always open to learn and collaborate.🏻
 

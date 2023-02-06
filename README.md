@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi👋, I'm Ishita. 
+<h1 align="center">Hi👋, I'm Ishita
             <pre> Glad to see you here!😎 </pre> </h1>
 <h3 align="center">A tech enthusiast currently learning Full Stack Development and a passionate graphic designer.</h3>
 

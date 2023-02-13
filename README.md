@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi👋, I'm Ishita
             <pre> Glad to see you here!😎 </pre> </h1>
-<h3 align="center">A tech enthusiast currently learning Full Stack Development and a passionate graphic designer.</h3>
+<h3 align="center">A tech enthusiast currently learning Full Stack Development.</h3>
 
 - 🧾 Pursuing Bachelor's in Computer Science from Banaras Hindu University
 - 👨‍💻 My Design Portfolio [https://ishita-pathak.my.canva.site/](https://ishita-pathak.my.canva.site/)

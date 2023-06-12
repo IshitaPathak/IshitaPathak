@@ -7,7 +7,7 @@
 <!-- <h3 align="center">Currently learning Full Stack Development.</h3> -->
 
 # 💫 About Me:
-• 🧾 Pursuing Bachelor's in Computer Science from Banaras Hindu University<br>• 👨‍💻 My Design Portfolio https://ishita-pathak.my.canva.site/<br>• 📫 Reach me at bhuishita@gmail.com<br>• 🤝 Always open to learn and collaborate<br>• 🌿 Currently learning Flutter
+• 🧾 Pursuing Bachelor's in Computer Science from Banaras Hindu University<br>• 📫 Reach me at bhuishita@gmail.com<br>• 🤝 Always open to learn and collaborate<br>• 🌿 Currently learning Flutter
 
 
 ## 🌐 Socials:

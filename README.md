@@ -1,13 +1,14 @@
 
 
+# Hi, I'm IshitaPathak
+
+I'm a Masters of Computer Science Student at IGDTUW . A Passionate Frontend and Flutter Developer based in India who loves to build some dope shit.
+
+I'm always on the lookout for new tech and enjoy playing around with it. I also like to contribute to open-source projects.
+
+I am always open to learn and collaborate. Feel Free to reach out to me, all of my links are  [HERE](https://linktr.ee/ishitapathak?utm_source=linktree_profile_share&ltsid=244decd5-e868-432d-a543-62cb42f70211).
 
 
-<h1 align="center">Hi👋, I'm Ishita
-            <pre> Glad to see you here!😎 </pre> </h1>
-<!-- <h3 align="center">Currently learning Full Stack Development.</h3> -->
-
-# 💫 About Me:
-• 🌿 Currently learning DSA<br>• 📫 Reach me at [Email](bhuishita@gmail.com)<br>• 🚀 Connect with me [Linktree](https://linktr.ee/ishitapathak?utm_source=linktree_profile_share&ltsid=244decd5-e868-432d-a543-62cb42f70211)<br>• 🤝 Always open to learn and collaborate<br>•⚡Fun fact I'm a sports person🎾<br>
 
 
 ## 🌐 Socials:

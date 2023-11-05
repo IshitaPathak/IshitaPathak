@@ -22,8 +22,7 @@ I am always open to learn and collaborate. Feel Free to reach out to me, all of 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # HacktoberFest'23
-[![An image of @ishitapathak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishitapathak)](https://holopin.io/@ishitapathak)
----
+[![An image of @ishitapathak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishitapathak)](https://holopin.io/@ishitapathak)---
 
 <h3 align="left">Profile Visits</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitapathak&label=Profile%20views&color=0e75b6&style=flat" alt="ishitapathak" /> </p>

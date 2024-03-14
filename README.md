@@ -10,7 +10,8 @@ I'm always open to learn and collaborate so feel Free to reach out, links are  [
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-pathak-119437201) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IshitaPathak_) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/ishita-pathak-119437201)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/IshitaPathak_)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=git,docker,c,cpp,java,python,anaconda,js,html,css,react,dart,flutter,firebase,vscode,linux,&perline=8)](https://skillicons.dev)

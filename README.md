@@ -2,7 +2,7 @@
 
 # Hi, I'm IshitaPathak
 
-A student Pursuing Masters of Computer Application at IGDTUW . A Passionate Frontend and Flutter Developer based in India who loves to build some dope shit curreltly learnign Machine learning
+A student Pursuing Masters of Computer Application at IGDTUW . A Passionate Frontend and Flutter Developer based in India who loves to build some dope shit currently learning Machine learning
 
 I'm always on the lookout for new tech and enjoy playing around with it, also like to contribute to open-source projects.
 

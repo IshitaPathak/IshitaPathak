@@ -2,7 +2,7 @@
 
 # Hi, I'm IshitaPathak
 
-A student Pursuing Masters of Computer Application at IGDTUW . A Passionate Frontend and Flutter Developer based in India who loves to build some dope shit.
+A student Pursuing Masters of Computer Application at IGDTUW . A Passionate Frontend and Flutter Developer based in India who loves to build some dope shit curreltly learnign Machine learning
 
 I'm always on the lookout for new tech and enjoy playing around with it, also like to contribute to open-source projects.
 
@@ -19,7 +19,7 @@ I'm always open to learn and collaborate so feel Free to reach out, links are  [
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IshitaPathak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=IshitaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 # HacktoberFest'23
 [![An image of @ishitapathak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishitapathak)](https://holopin.io/@ishitapathak)
